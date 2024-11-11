@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_secret_santa.admin" name="x_snc_secret_santa.admin">62a01dbdc3799210e89cbecdd40131e2</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 16:50:31</sys_created_on>
+        <sys_id>6aa01dbdc3799210e89cbecdd40131e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>62a01dbdc3799210e89cbecdd40131e2</sys_name>
+        <sys_package display_value="Secret Santa" source="x_snc_secret_santa">5f80d1bdc3799210e89cbecdd4013165</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Secret Santa">5f80d1bdc3799210e89cbecdd4013165</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6aa01dbdc3799210e89cbecdd40131e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 16:50:31</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
