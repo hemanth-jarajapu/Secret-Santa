@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>santa-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 16:59:04</sys_created_on>
+        <sys_id>cca29171c3b99210e89cbecdd4013108</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>santa-FieldValue</sys_name>
+        <sys_package display_value="Secret Santa" source="x_snc_secret_santa">5f80d1bdc3799210e89cbecdd4013165</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Secret Santa">5f80d1bdc3799210e89cbecdd4013165</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_cca29171c3b99210e89cbecdd4013108</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 16:59:04</sys_updated_on>
+        <view_config display_value="Pairing List Screen View Config">40a29171c3b99210e89cbecdd4013102</view_config>
+        <view_template_slot display_value="text_02">6c738dbc41e35010f877183fc9b8be9a</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
